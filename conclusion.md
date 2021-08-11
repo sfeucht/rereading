@@ -26,7 +26,7 @@ final essay for LITR1231 with Prof. John Cayley. summer 2021.
 <div class="content fade-in-slower">
 {: .centered}
 {: .small}
-see pdf version of essay <a href="">here.</a>
+see pdf version of essay <a href="https://drive.google.com/file/d/1BSXttf9eNHHJdJ1MYPDpgmcMUSa5bmBQ/view?usp=sharing">here.</a>
 </div>
 
 
