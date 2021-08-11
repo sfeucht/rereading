@@ -10,7 +10,7 @@ Apologies if they were difficult to parse, or if they felt unnatural or awkward.
 
 
 <div class="fade-in-slow">
-All of these comments were "written" by state-of-the-art language models that use deep learning in order to <code>artifically generate human-like text.</code>
+All of these comments were "written" by state-of-the-art language models that use deep learning in order to artifically generate human-like text.
 
 {: .centered}
 <a href="background.html">next -></a>

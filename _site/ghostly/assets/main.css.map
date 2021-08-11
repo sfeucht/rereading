@@ -3,12 +3,12 @@
 	"file": "main.css",
 	"sources": [
 		"main.scss",
-		"../rereading/ghostly/_sass/ghostly.scss",
-		"../rereading/ghostly/_sass/ghostly/_normalize.scss",
-		"../rereading/ghostly/_sass/ghostly/_reset.scss",
-		"../rereading/ghostly/_sass/ghostly/_github.scss",
-		"../rereading/ghostly/_sass/ghostly/_lightbox.scss",
-		"../rereading/ghostly/_sass/ghostly/_base.scss"
+		"ghostly/_sass/ghostly.scss",
+		"ghostly/_sass/ghostly/_normalize.scss",
+		"ghostly/_sass/ghostly/_reset.scss",
+		"ghostly/_sass/ghostly/_github.scss",
+		"ghostly/_sass/ghostly/_lightbox.scss",
+		"ghostly/_sass/ghostly/_base.scss"
 	],
 	"sourcesContent": [
 		"@import \"ghostly\";\n",
