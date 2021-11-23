@@ -1,3 +1,5 @@
-Final project for LITR1231E with Prof. John Cayley, Summer 2021.
+## you are being asked to do some reading.
 
-See website hosted here: https://sfeucht.github.io/rereading
+> **https://sfeucht.github.io/rereading**
+
+Final project for LITR1231E (Rereading Writing, in Brown University's Literary Arts Department) with Prof. John Cayley, Summer 2021.
